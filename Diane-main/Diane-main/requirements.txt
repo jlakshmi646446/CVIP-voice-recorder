@@ -1,0 +1,6 @@
+customtkinter
+pyaudio
+pydub
+openai
+pillow
+tiktoken
